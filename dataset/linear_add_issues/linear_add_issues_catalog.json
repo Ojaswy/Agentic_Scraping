@@ -1,0 +1,44 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_add_issues\\0_entry_page.png",
+    "timestamp": 1762116945.6728694,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_add_issues\\1_after_sidebar_click.png",
+    "timestamp": 1762116948.586786,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_action_click",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_add_issues\\2_after_action_click.png",
+    "timestamp": 1762116952.5580697,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Issues"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_add_issues\\3_final_state.png",
+    "timestamp": 1762116954.197284,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Issues"
+      },
+      {
+        "action": "click_action",
+        "label": "Issues"
+      }
+    ]
+  }
+]

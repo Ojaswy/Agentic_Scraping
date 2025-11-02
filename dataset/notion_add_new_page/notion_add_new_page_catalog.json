@@ -1,0 +1,44 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://www.notion.so/63858de365ad42c78d85528761a654e2",
+    "screenshot": "dataset\\notion_add_new_page\\0_entry_page.png",
+    "timestamp": 1762117587.7087104,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://www.notion.so/29fa9f21a27c80c2a4dfe993c712fcf7?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_add_new_page\\1_after_sidebar_click.png",
+    "timestamp": 1762117590.812042,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_action_click",
+    "url": "https://www.notion.so/29fa9f21a27c80318757cce7a0ffe6f1?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_add_new_page\\2_after_action_click.png",
+    "timestamp": 1762117594.678126,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "New page"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://www.notion.so/29fa9f21a27c80318757cce7a0ffe6f1?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_add_new_page\\3_final_state.png",
+    "timestamp": 1762117596.2933335,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "New page"
+      },
+      {
+        "action": "click_action",
+        "label": "New page"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://www.notion.so/63858de365ad42c78d85528761a654e2",
+    "screenshot": "dataset\\notion_collaborate\\0_entry_page.png",
+    "timestamp": 1762117571.0156431,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://www.notion.so/29fa9f21a27c80e1a5c7cd71dec9c150?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_collaborate\\1_after_sidebar_click.png",
+    "timestamp": 1762117573.917908,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_action_click",
+    "url": "https://www.notion.so/29fa9f21a27c808c8649e1f604d063a9?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_collaborate\\2_after_action_click.png",
+    "timestamp": 1762117577.7439117,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Start collaborating"
+      }
+    ]
+  },
+  {
+    "name": "modal_0",
+    "url": "https://www.notion.so/29fa9f21a27c808c8649e1f604d063a9?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_collaborate\\3_modal_0.png",
+    "timestamp": 1762117577.8623493,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Start collaborating"
+      },
+      {
+        "action": "click_action",
+        "label": "Start collaborating"
+      }
+    ]
+  },
+  {
+    "name": "modal_0_submitted",
+    "url": "https://www.notion.so/29fa9f21a27c808c8649e1f604d063a9?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_collaborate\\4_modal_0_submitted.png",
+    "timestamp": 1762117580.6758695,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Start collaborating"
+      },
+      {
+        "action": "click_action",
+        "label": "Start collaborating"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://www.notion.so/29fa9f21a27c808c8649e1f604d063a9?showMoveTo=true&saveParent=true",
+    "screenshot": "dataset\\notion_collaborate\\5_final_state.png",
+    "timestamp": 1762117582.2851381,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Start collaborating"
+      },
+      {
+        "action": "click_action",
+        "label": "Start collaborating"
+      },
+      {
+        "action": "submit_modal",
+        "label": "Publish"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_create_view\\0_entry_page.png",
+    "timestamp": 1762116931.8839116,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://linear.app/jazzcodes/views",
+    "screenshot": "dataset\\linear_create_view\\1_after_sidebar_click.png",
+    "timestamp": 1762116934.759747,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_action_click",
+    "url": "https://linear.app/jazzcodes/views/issues/new",
+    "screenshot": "dataset\\linear_create_view\\2_after_action_click.png",
+    "timestamp": 1762116938.3146355,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Views"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://linear.app/jazzcodes/views/issues/new",
+    "screenshot": "dataset\\linear_create_view\\3_final_state.png",
+    "timestamp": 1762116939.9870446,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Views"
+      },
+      {
+        "action": "click_action",
+        "label": ""
+      }
+    ]
+  }
+]

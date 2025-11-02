@@ -1,0 +1,80 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_create_project\\0_entry_page.png",
+    "timestamp": 1762116914.5065677,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://linear.app/jazzcodes/projects/all",
+    "screenshot": "dataset\\linear_create_project\\1_after_sidebar_click.png",
+    "timestamp": 1762116917.2639008,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_action_click",
+    "url": "https://linear.app/jazzcodes/projects/all",
+    "screenshot": "dataset\\linear_create_project\\2_after_action_click.png",
+    "timestamp": 1762116921.0722735,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Projects"
+      }
+    ]
+  },
+  {
+    "name": "modal_0",
+    "url": "https://linear.app/jazzcodes/projects/all",
+    "screenshot": "dataset\\linear_create_project\\3_modal_0.png",
+    "timestamp": 1762116921.2048855,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Projects"
+      },
+      {
+        "action": "click_action",
+        "label": "Add project"
+      }
+    ]
+  },
+  {
+    "name": "modal_0_submitted",
+    "url": "https://linear.app/jazzcodes/projects/all",
+    "screenshot": "dataset\\linear_create_project\\4_modal_0_submitted.png",
+    "timestamp": 1762116924.4455051,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Projects"
+      },
+      {
+        "action": "click_action",
+        "label": "Add project"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://linear.app/jazzcodes/projects/all",
+    "screenshot": "dataset\\linear_create_project\\5_final_state.png",
+    "timestamp": 1762116926.074781,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Projects"
+      },
+      {
+        "action": "click_action",
+        "label": "Add project"
+      },
+      {
+        "action": "submit_modal",
+        "label": "Create project"
+      }
+    ]
+  }
+]

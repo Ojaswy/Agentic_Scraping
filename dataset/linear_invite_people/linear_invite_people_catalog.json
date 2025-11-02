@@ -1,0 +1,56 @@
+[
+  {
+    "name": "entry_page",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_invite_people\\0_entry_page.png",
+    "timestamp": 1762116897.9288468,
+    "actions_so_far": []
+  },
+  {
+    "name": "after_sidebar_click",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_invite_people\\1_after_sidebar_click.png",
+    "timestamp": 1762116901.0079825,
+    "actions_so_far": []
+  },
+  {
+    "name": "modal_0",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_invite_people\\2_modal_0.png",
+    "timestamp": 1762116904.4640136,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Invite people"
+      }
+    ]
+  },
+  {
+    "name": "modal_0_submitted",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_invite_people\\3_modal_0_submitted.png",
+    "timestamp": 1762116907.1353831,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Invite people"
+      }
+    ]
+  },
+  {
+    "name": "final_state",
+    "url": "https://linear.app/jazzcodes/team/JAZ/active",
+    "screenshot": "dataset\\linear_invite_people\\4_final_state.png",
+    "timestamp": 1762116908.83088,
+    "actions_so_far": [
+      {
+        "action": "click_sidebar",
+        "label": "Invite people"
+      },
+      {
+        "action": "submit_modal",
+        "label": "Send invites"
+      }
+    ]
+  }
+]
